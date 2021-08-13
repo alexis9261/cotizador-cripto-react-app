@@ -1,4 +1,4 @@
-### Mini Proyecto ReacJs que consulta API del clima
+### Mini Proyecto ReacJs para obtener las cotizaciones de las principales criptomonedas en diferentes divisas
 
 - https://min-api.cryptocompare.com/data/pricemultifull?fsyms=${criptomoneda}&tsyms=${moneda}
 
@@ -10,11 +10,6 @@ Este proyecto fue desarrollado usando:
 - Styled Components
 - Axios
 - Desplegada en Netlify
-
-La app consiste en consultar el clima en distintas ciudades del mundo.
-Se proporcionan:
-Ciudad
-Pais
 
 --------------------------
 
